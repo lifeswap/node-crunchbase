@@ -1,0 +1,8 @@
+{
+  "name": "crunchbase",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "~2.14.0",
+    "coffee-script": "~1.4.0"
+  }
+}
